@@ -1,7 +1,6 @@
-#!/usr/bin/env bash
-#print Holberton n times
-
-number=10
-for ((count=0; count<number; count++)); do 
-    echo "Holberton School"; 
+!/usr/bin/env bash
+This script is displaying "Best School" 10 times.
+for ((i = 0 i < 10; i++))
+do
+	echo "Best School"
 done
